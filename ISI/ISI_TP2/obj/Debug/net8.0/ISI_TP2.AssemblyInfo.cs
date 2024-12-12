@@ -14,7 +14,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("ISI_TP2")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+6df77f9f350bdfb3de845726e36ac9d6a6e7dd4d")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+ae232e2b60c09a216b3064940efffe04077bd5f7")]
 [assembly: System.Reflection.AssemblyProductAttribute("ISI_TP2")]
 [assembly: System.Reflection.AssemblyTitleAttribute("ISI_TP2")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]

@@ -3,24 +3,56 @@
   "WorkspaceRootPath": "C:\\Users\\RuiMiguelSoaresRodri\\Desktop\\Lesi\\3ano\\ISI\\ISI_TP2\\ISI_TP2\\ISI\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{43909C0A-B241-47FA-AFDA-AE325731812F}|ISI_TP2\\ISI_TP2.csproj|c:\\users\\ruimiguelsoaresrodri\\desktop\\lesi\\3ano\\isi\\isi_tp2\\isi_tp2\\isi\\isi_tp2\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{43909C0A-B241-47FA-AFDA-AE325731812F}|ISI_TP2\\ISI_TP2.csproj|solutionrelative:isi_tp2\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
       "AbsoluteMoniker": "D:0:0:{43909C0A-B241-47FA-AFDA-AE325731812F}|ISI_TP2\\ISI_TP2.csproj|c:\\users\\ruimiguelsoaresrodri\\desktop\\lesi\\3ano\\isi\\isi_tp2\\isi_tp2\\isi\\isi_tp2\\controllers\\transportescontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{43909C0A-B241-47FA-AFDA-AE325731812F}|ISI_TP2\\ISI_TP2.csproj|solutionrelative:isi_tp2\\controllers\\transportescontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{F1936C33-C7EC-4F88-93F7-A3023B0040B2}|C:\\Users\\RuiMiguelSoaresRodri\\source\\repos\\ISI\\Soap_TP2|C:\\Users\\RuiMiguelSoaresRodri\\Desktop\\Lesi\\3ano\\ISI\\ISI_TP2\\ISI_TP2\\ISI\\soap_tp2\\app_code\\iservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{F1936C33-C7EC-4F88-93F7-A3023B0040B2}|C:\\Users\\RuiMiguelSoaresRodri\\source\\repos\\ISI\\Soap_TP2|solutionrelative:soap_tp2\\app_code\\iservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{F1936C33-C7EC-4F88-93F7-A3023B0040B2}|C:\\Users\\RuiMiguelSoaresRodri\\Desktop\\Lesi\\3ano\\ISI\\ISI_TP2\\ISI_TP2\\ISI\\Soap_TP2|c:\\users\\ruimiguelsoaresrodri\\desktop\\lesi\\3ano\\isi\\isi_tp2\\isi_tp2\\isi\\soap_tp2\\app_code\\models\\transporte.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{F1936C33-C7EC-4F88-93F7-A3023B0040B2}|C:\\Users\\RuiMiguelSoaresRodri\\Desktop\\Lesi\\3ano\\ISI\\ISI_TP2\\ISI_TP2\\ISI\\Soap_TP2|solutionrelative:soap_tp2\\app_code\\models\\transporte.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F1936C33-C7EC-4F88-93F7-A3023B0040B2}|C:\\Users\\RuiMiguelSoaresRodri\\Desktop\\Lesi\\3ano\\ISI\\ISI_TP2\\ISI_TP2\\ISI\\Soap_TP2|c:\\users\\ruimiguelsoaresrodri\\desktop\\lesi\\3ano\\isi\\isi_tp2\\isi_tp2\\isi\\soap_tp2\\app_code\\iservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{F1936C33-C7EC-4F88-93F7-A3023B0040B2}|C:\\Users\\RuiMiguelSoaresRodri\\Desktop\\Lesi\\3ano\\ISI\\ISI_TP2\\ISI_TP2\\ISI\\Soap_TP2|solutionrelative:soap_tp2\\app_code\\iservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F1936C33-C7EC-4F88-93F7-A3023B0040B2}|C:\\Users\\RuiMiguelSoaresRodri\\Desktop\\Lesi\\3ano\\ISI\\ISI_TP2\\ISI_TP2\\ISI\\Soap_TP2|c:\\users\\ruimiguelsoaresrodri\\desktop\\lesi\\3ano\\isi\\isi_tp2\\isi_tp2\\isi\\soap_tp2\\app_code\\service.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{F1936C33-C7EC-4F88-93F7-A3023B0040B2}|C:\\Users\\RuiMiguelSoaresRodri\\Desktop\\Lesi\\3ano\\ISI\\ISI_TP2\\ISI_TP2\\ISI\\Soap_TP2|solutionrelative:soap_tp2\\app_code\\service.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{F1936C33-C7EC-4F88-93F7-A3023B0040B2}|C:\\Users\\RuiMiguelSoaresRodri\\source\\repos\\ISI\\Soap_TP2|C:\\Users\\RuiMiguelSoaresRodri\\Desktop\\Lesi\\3ano\\ISI\\ISI_TP2\\ISI_TP2\\ISI\\soap_tp2\\app_code\\models\\transporte.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{F1936C33-C7EC-4F88-93F7-A3023B0040B2}|C:\\Users\\RuiMiguelSoaresRodri\\source\\repos\\ISI\\Soap_TP2|solutionrelative:soap_tp2\\app_code\\models\\transporte.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
+      "AbsoluteMoniker": "D:0:0:{F1936C33-C7EC-4F88-93F7-A3023B0040B2}|C:\\Users\\RuiMiguelSoaresRodri\\source\\repos\\ISI\\Soap_TP2|C:\\Users\\RuiMiguelSoaresRodri\\Desktop\\Lesi\\3ano\\ISI\\ISI_TP2\\ISI_TP2\\ISI\\soap_tp2\\app_code\\service.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{F1936C33-C7EC-4F88-93F7-A3023B0040B2}|C:\\Users\\RuiMiguelSoaresRodri\\source\\repos\\ISI\\Soap_TP2|solutionrelative:soap_tp2\\app_code\\service.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F1936C33-C7EC-4F88-93F7-A3023B0040B2}|C:\\Users\\RuiMiguelSoaresRodri\\source\\repos\\ISI\\Soap_TP2|C:\\Users\\RuiMiguelSoaresRodri\\Desktop\\Lesi\\3ano\\ISI\\ISI_TP2\\ISI_TP2\\ISI\\soap_tp2\\app_code\\iservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{F1936C33-C7EC-4F88-93F7-A3023B0040B2}|C:\\Users\\RuiMiguelSoaresRodri\\source\\repos\\ISI\\Soap_TP2|solutionrelative:soap_tp2\\app_code\\iservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{43909C0A-B241-47FA-AFDA-AE325731812F}|ISI_TP2\\ISI_TP2.csproj|c:\\users\\ruimiguelsoaresrodri\\desktop\\lesi\\3ano\\isi\\isi_tp2\\isi_tp2\\isi\\isi_tp2\\appsettings.development.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{43909C0A-B241-47FA-AFDA-AE325731812F}|ISI_TP2\\ISI_TP2.csproj|solutionrelative:isi_tp2\\appsettings.development.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{43909C0A-B241-47FA-AFDA-AE325731812F}|ISI_TP2\\ISI_TP2.csproj|c:\\users\\ruimiguelsoaresrodri\\desktop\\lesi\\3ano\\isi\\isi_tp2\\isi_tp2\\isi\\isi_tp2\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{43909C0A-B241-47FA-AFDA-AE325731812F}|ISI_TP2\\ISI_TP2.csproj|solutionrelative:isi_tp2\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{43909C0A-B241-47FA-AFDA-AE325731812F}|ISI_TP2\\ISI_TP2.csproj|c:\\users\\ruimiguelsoaresrodri\\desktop\\lesi\\3ano\\isi\\isi_tp2\\isi_tp2\\isi\\isi_tp2\\controllers\\utilizadorcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{43909C0A-B241-47FA-AFDA-AE325731812F}|ISI_TP2\\ISI_TP2.csproj|solutionrelative:isi_tp2\\controllers\\utilizadorcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{43909C0A-B241-47FA-AFDA-AE325731812F}|ISI_TP2\\ISI_TP2.csproj|c:\\users\\ruimiguelsoaresrodri\\desktop\\lesi\\3ano\\isi\\isi_tp2\\isi_tp2\\isi\\isi_tp2\\isi_tp2.http||{5703B403-55E7-4C63-8C88-A8F52C7A45C5}",
+      "RelativeMoniker": "D:0:0:{43909C0A-B241-47FA-AFDA-AE325731812F}|ISI_TP2\\ISI_TP2.csproj|solutionrelative:isi_tp2\\isi_tp2.http||{5703B403-55E7-4C63-8C88-A8F52C7A45C5}"
+    },
+    {
       "AbsoluteMoniker": "D:0:0:{43909C0A-B241-47FA-AFDA-AE325731812F}|ISI_TP2\\ISI_TP2.csproj|c:\\users\\ruimiguelsoaresrodri\\desktop\\lesi\\3ano\\isi\\isi_tp2\\isi_tp2\\isi\\isi_tp2\\models\\utilizador.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{43909C0A-B241-47FA-AFDA-AE325731812F}|ISI_TP2\\ISI_TP2.csproj|solutionrelative:isi_tp2\\models\\utilizador.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{43909C0A-B241-47FA-AFDA-AE325731812F}|ISI_TP2\\ISI_TP2.csproj|c:\\users\\ruimiguelsoaresrodri\\desktop\\lesi\\3ano\\isi\\isi_tp2\\isi_tp2\\isi\\isi_tp2\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{43909C0A-B241-47FA-AFDA-AE325731812F}|ISI_TP2\\ISI_TP2.csproj|solutionrelative:isi_tp2\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{43909C0A-B241-47FA-AFDA-AE325731812F}|ISI_TP2\\ISI_TP2.csproj|c:\\users\\ruimiguelsoaresrodri\\desktop\\lesi\\3ano\\isi\\isi_tp2\\isi_tp2\\isi\\isi_tp2\\connected services\\servicereference1\\reference.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
@@ -35,28 +67,12 @@
       "RelativeMoniker": "D:0:0:{43909C0A-B241-47FA-AFDA-AE325731812F}|ISI_TP2\\ISI_TP2.csproj|solutionrelative:isi_tp2\\enums\\role.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{43909C0A-B241-47FA-AFDA-AE325731812F}|ISI_TP2\\ISI_TP2.csproj|c:\\users\\ruimiguelsoaresrodri\\desktop\\lesi\\3ano\\isi\\isi_tp2\\isi_tp2\\isi\\isi_tp2\\controllers\\utilizadorcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{43909C0A-B241-47FA-AFDA-AE325731812F}|ISI_TP2\\ISI_TP2.csproj|solutionrelative:isi_tp2\\controllers\\utilizadorcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{F1936C33-C7EC-4F88-93F7-A3023B0040B2}|C:\\Users\\RuiMiguelSoaresRodri\\source\\repos\\ISI\\Soap_TP2|C:\\Users\\RuiMiguelSoaresRodri\\Desktop\\Lesi\\3ano\\ISI\\ISI_TP2\\ISI_TP2\\ISI\\soap_tp2\\app_code\\service.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{F1936C33-C7EC-4F88-93F7-A3023B0040B2}|C:\\Users\\RuiMiguelSoaresRodri\\source\\repos\\ISI\\Soap_TP2|solutionrelative:soap_tp2\\app_code\\service.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
       "AbsoluteMoniker": "D:0:0:{F1936C33-C7EC-4F88-93F7-A3023B0040B2}|C:\\Users\\RuiMiguelSoaresRodri\\source\\repos\\ISI\\Soap_TP2|C:\\Users\\RuiMiguelSoaresRodri\\Desktop\\Lesi\\3ano\\ISI\\ISI_TP2\\ISI_TP2\\ISI\\soap_tp2\\web.config||{FA3CD31E-987B-443A-9B81-186104E8DAC1}",
       "RelativeMoniker": "D:0:0:{F1936C33-C7EC-4F88-93F7-A3023B0040B2}|C:\\Users\\RuiMiguelSoaresRodri\\source\\repos\\ISI\\Soap_TP2|solutionrelative:soap_tp2\\web.config||{FA3CD31E-987B-443A-9B81-186104E8DAC1}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{F1936C33-C7EC-4F88-93F7-A3023B0040B2}|C:\\Users\\RuiMiguelSoaresRodri\\source\\repos\\ISI\\Soap_TP2|C:\\Users\\RuiMiguelSoaresRodri\\Desktop\\Lesi\\3ano\\ISI\\ISI_TP2\\ISI_TP2\\ISI\\soap_tp2\\service.svc||{FB9167C9-D3B8-4EDA-8083-9AF6B6F6DA62}",
       "RelativeMoniker": "D:0:0:{F1936C33-C7EC-4F88-93F7-A3023B0040B2}|C:\\Users\\RuiMiguelSoaresRodri\\source\\repos\\ISI\\Soap_TP2|solutionrelative:soap_tp2\\service.svc||{FB9167C9-D3B8-4EDA-8083-9AF6B6F6DA62}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{43909C0A-B241-47FA-AFDA-AE325731812F}|ISI_TP2\\ISI_TP2.csproj|c:\\users\\ruimiguelsoaresrodri\\desktop\\lesi\\3ano\\isi\\isi_tp2\\isi_tp2\\isi\\isi_tp2\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
-      "RelativeMoniker": "D:0:0:{43909C0A-B241-47FA-AFDA-AE325731812F}|ISI_TP2\\ISI_TP2.csproj|solutionrelative:isi_tp2\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{43909C0A-B241-47FA-AFDA-AE325731812F}|ISI_TP2\\ISI_TP2.csproj|c:\\users\\ruimiguelsoaresrodri\\desktop\\lesi\\3ano\\isi\\isi_tp2\\isi_tp2\\isi\\isi_tp2\\appsettings.development.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
-      "RelativeMoniker": "D:0:0:{43909C0A-B241-47FA-AFDA-AE325731812F}|ISI_TP2\\ISI_TP2.csproj|solutionrelative:isi_tp2\\appsettings.development.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{F1936C33-C7EC-4F88-93F7-A3023B0040B2}|C:\\Users\\RuiMiguelSoaresRodri\\source\\repos\\ISI\\Soap_TP2|C:\\Users\\RuiMiguelSoaresRodri\\Desktop\\Lesi\\3ano\\ISI\\ISI_TP2\\ISI_TP2\\ISI\\soap_tp2\\web.debug.config||{FA3CD31E-987B-443A-9B81-186104E8DAC1}",
@@ -84,10 +100,6 @@
     {
       "AbsoluteMoniker": "D:0:0:{43909C0A-B241-47FA-AFDA-AE325731812F}|ISI_TP2\\ISI_TP2.csproj|c:\\users\\ruimiguelsoaresrodri\\desktop\\lesi\\3ano\\isi\\isi_tp2\\isi_tp2\\isi\\isi_tp2\\properties\\launchsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
       "RelativeMoniker": "D:0:0:{43909C0A-B241-47FA-AFDA-AE325731812F}|ISI_TP2\\ISI_TP2.csproj|solutionrelative:isi_tp2\\properties\\launchsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{43909C0A-B241-47FA-AFDA-AE325731812F}|ISI_TP2\\ISI_TP2.csproj|c:\\users\\ruimiguelsoaresrodri\\desktop\\lesi\\3ano\\isi\\isi_tp2\\isi_tp2\\isi\\isi_tp2\\isi_tp2.http||{5703B403-55E7-4C63-8C88-A8F52C7A45C5}",
-      "RelativeMoniker": "D:0:0:{43909C0A-B241-47FA-AFDA-AE325731812F}|ISI_TP2\\ISI_TP2.csproj|solutionrelative:isi_tp2\\isi_tp2.http||{5703B403-55E7-4C63-8C88-A8F52C7A45C5}"
     }
   ],
   "DocumentGroupContainers": [
@@ -121,7 +133,46 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 6,
+              "DocumentIndex": 1,
+              "Title": "Transporte.cs",
+              "DocumentMoniker": "C:\\Users\\RuiMiguelSoaresRodri\\Desktop\\Lesi\\3ano\\ISI\\ISI_TP2\\ISI_TP2\\ISI\\Soap_TP2\\App_Code\\Models\\Transporte.cs",
+              "RelativeDocumentMoniker": "Soap_TP2\\App_Code\\Models\\Transporte.cs",
+              "ToolTip": "C:\\Users\\RuiMiguelSoaresRodri\\Desktop\\Lesi\\3ano\\ISI\\ISI_TP2\\ISI_TP2\\ISI\\Soap_TP2\\App_Code\\Models\\Transporte.cs",
+              "RelativeToolTip": "Soap_TP2\\App_Code\\Models\\Transporte.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABAAAAAWAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-12T17:13:28.953Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "Service.cs",
+              "DocumentMoniker": "C:\\Users\\RuiMiguelSoaresRodri\\Desktop\\Lesi\\3ano\\ISI\\ISI_TP2\\ISI_TP2\\ISI\\Soap_TP2\\App_Code\\Service.cs",
+              "RelativeDocumentMoniker": "Soap_TP2\\App_Code\\Service.cs",
+              "ToolTip": "C:\\Users\\RuiMiguelSoaresRodri\\Desktop\\Lesi\\3ano\\ISI\\ISI_TP2\\ISI_TP2\\ISI\\Soap_TP2\\App_Code\\Service.cs",
+              "RelativeToolTip": "Soap_TP2\\App_Code\\Service.cs",
+              "ViewState": "AgIAAHAAAAAAAAAAAAAAAHAAAAAIAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-12T17:13:27.14Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "IService.cs",
+              "DocumentMoniker": "C:\\Users\\RuiMiguelSoaresRodri\\Desktop\\Lesi\\3ano\\ISI\\ISI_TP2\\ISI_TP2\\ISI\\Soap_TP2\\App_Code\\IService.cs",
+              "RelativeDocumentMoniker": "Soap_TP2\\App_Code\\IService.cs",
+              "ToolTip": "C:\\Users\\RuiMiguelSoaresRodri\\Desktop\\Lesi\\3ano\\ISI\\ISI_TP2\\ISI_TP2\\ISI\\Soap_TP2\\App_Code\\IService.cs",
+              "RelativeToolTip": "Soap_TP2\\App_Code\\IService.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABEAAAAbAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-12T16:54:46.391Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 14,
               "Title": "ConnectedService.json",
               "DocumentMoniker": "C:\\Users\\RuiMiguelSoaresRodri\\Desktop\\Lesi\\3ano\\ISI\\ISI_TP2\\ISI_TP2\\ISI\\ISI_TP2\\Connected Services\\ServiceReference1\\ConnectedService.json",
               "RelativeDocumentMoniker": "ISI_TP2\\Connected Services\\ServiceReference1\\ConnectedService.json",
@@ -133,7 +184,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 5,
+              "DocumentIndex": 13,
               "Title": "Reference.cs",
               "DocumentMoniker": "C:\\Users\\RuiMiguelSoaresRodri\\Desktop\\Lesi\\3ano\\ISI\\ISI_TP2\\ISI_TP2\\ISI\\ISI_TP2\\Connected Services\\ServiceReference1\\Reference.cs",
               "RelativeDocumentMoniker": "ISI_TP2\\Connected Services\\ServiceReference1\\Reference.cs",
@@ -145,7 +196,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 7,
+              "DocumentIndex": 15,
               "Title": "Role.cs",
               "DocumentMoniker": "C:\\Users\\RuiMiguelSoaresRodri\\Desktop\\Lesi\\3ano\\ISI\\ISI_TP2\\ISI_TP2\\ISI\\ISI_TP2\\Enums\\Role.cs",
               "RelativeDocumentMoniker": "ISI_TP2\\Enums\\Role.cs",
@@ -157,7 +208,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 19,
+              "DocumentIndex": 23,
               "Title": "Web.Debug.config",
               "DocumentMoniker": "C:\\Users\\RuiMiguelSoaresRodri\\source\\repos\\ISI\\SoaP_ISI_TP2\\Web.Debug.config",
               "RelativeDocumentMoniker": "..\\..\\..\\..\\..\\..\\..\\source\\repos\\ISI\\SoaP_ISI_TP2\\Web.Debug.config",
@@ -169,7 +220,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 20,
+              "DocumentIndex": 24,
               "Title": "Service.svc",
               "DocumentMoniker": "C:\\Users\\RuiMiguelSoaresRodri\\source\\repos\\ISI\\SoaP_ISI_TP2\\Service.svc",
               "RelativeDocumentMoniker": "..\\..\\..\\..\\..\\..\\..\\source\\repos\\ISI\\SoaP_ISI_TP2\\Service.svc",
@@ -181,7 +232,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 18,
+              "DocumentIndex": 22,
               "Title": "Web.config",
               "DocumentMoniker": "C:\\Users\\RuiMiguelSoaresRodri\\source\\repos\\ISI\\SoaP_ISI_TP2\\Web.config",
               "RelativeDocumentMoniker": "..\\..\\..\\..\\..\\..\\..\\source\\repos\\ISI\\SoaP_ISI_TP2\\Web.config",
@@ -193,7 +244,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 17,
+              "DocumentIndex": 21,
               "Title": "IService.cs",
               "DocumentMoniker": "C:\\Users\\RuiMiguelSoaresRodri\\source\\repos\\ISI\\SoaP_ISI_TP2\\App_Code\\IService.cs",
               "RelativeDocumentMoniker": "..\\..\\..\\..\\..\\..\\..\\source\\repos\\ISI\\SoaP_ISI_TP2\\App_Code\\IService.cs",
@@ -205,7 +256,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 16,
+              "DocumentIndex": 20,
               "Title": "Service.cs",
               "DocumentMoniker": "C:\\Users\\RuiMiguelSoaresRodri\\source\\repos\\ISI\\SoaP_ISI_TP2\\App_Code\\Service.cs",
               "RelativeDocumentMoniker": "..\\..\\..\\..\\..\\..\\..\\source\\repos\\ISI\\SoaP_ISI_TP2\\App_Code\\Service.cs",
@@ -217,7 +268,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 15,
+              "DocumentIndex": 19,
               "Title": "ISI_TP2",
               "DocumentMoniker": "C:\\Users\\RuiMiguelSoaresRodri\\Desktop\\Lesi\\3ano\\ISI\\ISI_TP2\\ISI_TP2\\ISI\\ISI_TP2\\ISI_TP2.csproj",
               "RelativeDocumentMoniker": "ISI_TP2\\ISI_TP2.csproj",
@@ -228,7 +279,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 21,
+              "DocumentIndex": 25,
               "Title": "launchSettings.json",
               "DocumentMoniker": "C:\\Users\\RuiMiguelSoaresRodri\\Desktop\\Lesi\\3ano\\ISI\\ISI_TP2\\ISI_TP2\\ISI\\ISI_TP2\\Properties\\launchSettings.json",
               "RelativeDocumentMoniker": "ISI_TP2\\Properties\\launchSettings.json",
@@ -240,7 +291,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 4,
+              "DocumentIndex": 11,
               "Title": "Utilizador.cs",
               "DocumentMoniker": "C:\\Users\\RuiMiguelSoaresRodri\\Desktop\\Lesi\\3ano\\ISI\\ISI_TP2\\ISI_TP2\\ISI\\ISI_TP2\\Models\\Utilizador.cs",
               "RelativeDocumentMoniker": "ISI_TP2\\Models\\Utilizador.cs",
@@ -248,11 +299,12 @@
               "RelativeToolTip": "ISI_TP2\\Models\\Utilizador.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAABAAAAABAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-12-05T22:10:25.418Z"
+              "WhenOpened": "2024-12-05T22:10:25.418Z",
+              "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 8,
+              "DocumentIndex": 9,
               "Title": "UtilizadorController.cs",
               "DocumentMoniker": "C:\\Users\\RuiMiguelSoaresRodri\\Desktop\\Lesi\\3ano\\ISI\\ISI_TP2\\ISI_TP2\\ISI\\ISI_TP2\\Controllers\\UtilizadorController.cs",
               "RelativeDocumentMoniker": "ISI_TP2\\Controllers\\UtilizadorController.cs",
@@ -260,23 +312,25 @@
               "RelativeToolTip": "ISI_TP2\\Controllers\\UtilizadorController.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAIAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-12-05T22:10:00.495Z"
+              "WhenOpened": "2024-12-05T22:10:00.495Z",
+              "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 1,
+              "DocumentIndex": 0,
               "Title": "TransportesController.cs",
               "DocumentMoniker": "C:\\Users\\RuiMiguelSoaresRodri\\Desktop\\Lesi\\3ano\\ISI\\ISI_TP2\\ISI_TP2\\ISI\\ISI_TP2\\Controllers\\TransportesController.cs",
               "RelativeDocumentMoniker": "ISI_TP2\\Controllers\\TransportesController.cs",
               "ToolTip": "C:\\Users\\RuiMiguelSoaresRodri\\Desktop\\Lesi\\3ano\\ISI\\ISI_TP2\\ISI_TP2\\ISI\\ISI_TP2\\Controllers\\TransportesController.cs",
               "RelativeToolTip": "ISI_TP2\\Controllers\\TransportesController.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAgAAAAmAAAAAAAAAA==",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABAAAAAJAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-12-05T22:08:42.076Z"
+              "WhenOpened": "2024-12-05T22:08:42.076Z",
+              "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 13,
+              "DocumentIndex": 7,
               "Title": "appsettings.Development.json",
               "DocumentMoniker": "C:\\Users\\RuiMiguelSoaresRodri\\Desktop\\Lesi\\3ano\\ISI\\ISI_TP2\\ISI_TP2\\ISI\\ISI_TP2\\appsettings.Development.json",
               "RelativeDocumentMoniker": "ISI_TP2\\appsettings.Development.json",
@@ -284,11 +338,12 @@
               "RelativeToolTip": "ISI_TP2\\appsettings.Development.json",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
-              "WhenOpened": "2024-12-05T21:46:02.42Z"
+              "WhenOpened": "2024-12-05T21:46:02.42Z",
+              "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 12,
+              "DocumentIndex": 8,
               "Title": "appsettings.json",
               "DocumentMoniker": "C:\\Users\\RuiMiguelSoaresRodri\\Desktop\\Lesi\\3ano\\ISI\\ISI_TP2\\ISI_TP2\\ISI\\ISI_TP2\\appsettings.json",
               "RelativeDocumentMoniker": "ISI_TP2\\appsettings.json",
@@ -296,24 +351,25 @@
               "RelativeToolTip": "ISI_TP2\\appsettings.json",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAwAAAACAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
-              "WhenOpened": "2024-12-05T21:39:25.301Z"
+              "WhenOpened": "2024-12-05T21:39:25.301Z",
+              "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 0,
+              "DocumentIndex": 12,
               "Title": "Program.cs",
               "DocumentMoniker": "C:\\Users\\RuiMiguelSoaresRodri\\Desktop\\Lesi\\3ano\\ISI\\ISI_TP2\\ISI_TP2\\ISI\\ISI_TP2\\Program.cs",
               "RelativeDocumentMoniker": "ISI_TP2\\Program.cs",
               "ToolTip": "C:\\Users\\RuiMiguelSoaresRodri\\Desktop\\Lesi\\3ano\\ISI\\ISI_TP2\\ISI_TP2\\ISI\\ISI_TP2\\Program.cs",
               "RelativeToolTip": "ISI_TP2\\Program.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAqwAwAAAAAAAAAAAAAAA==",
+              "ViewState": "AgIAAAAAAAAAAAAAAAA6wAwAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2024-12-05T21:01:17.467Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 22,
+              "DocumentIndex": 10,
               "Title": "ISI_TP2.http",
               "DocumentMoniker": "C:\\Users\\RuiMiguelSoaresRodri\\Desktop\\Lesi\\3ano\\ISI\\ISI_TP2\\ISI_TP2\\ISI\\ISI_TP2\\ISI_TP2.http",
               "RelativeDocumentMoniker": "ISI_TP2\\ISI_TP2.http",
@@ -321,11 +377,12 @@
               "RelativeToolTip": "ISI_TP2\\ISI_TP2.http",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003502|",
-              "WhenOpened": "2024-12-05T21:01:09.971Z"
+              "WhenOpened": "2024-12-05T21:01:09.971Z",
+              "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 10,
+              "DocumentIndex": 16,
               "Title": "Web.config",
               "DocumentMoniker": "C:\\Users\\RuiMiguelSoaresRodri\\Desktop\\Lesi\\3ano\\ISI\\ISI_TP2\\ISI_TP2\\ISI\\Soap_TP2\\Web.config",
               "RelativeDocumentMoniker": "Soap_TP2\\Web.config",
@@ -337,7 +394,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 11,
+              "DocumentIndex": 17,
               "Title": "Service.svc",
               "DocumentMoniker": "C:\\Users\\RuiMiguelSoaresRodri\\Desktop\\Lesi\\3ano\\ISI\\ISI_TP2\\ISI_TP2\\ISI\\Soap_TP2\\Service.svc",
               "RelativeDocumentMoniker": "Soap_TP2\\Service.svc",
@@ -349,7 +406,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 14,
+              "DocumentIndex": 18,
               "Title": "Web.Debug.config",
               "DocumentMoniker": "C:\\Users\\RuiMiguelSoaresRodri\\Desktop\\Lesi\\3ano\\ISI\\ISI_TP2\\ISI_TP2\\ISI\\Soap_TP2\\Web.Debug.config",
               "RelativeDocumentMoniker": "Soap_TP2\\Web.Debug.config",
@@ -361,7 +418,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 3,
+              "DocumentIndex": 4,
               "Title": "Transporte.cs",
               "DocumentMoniker": "C:\\Users\\RuiMiguelSoaresRodri\\Desktop\\Lesi\\3ano\\ISI\\ISI_TP2\\ISI_TP2\\ISI\\Soap_TP2\\App_Code\\Models\\Transporte.cs",
               "RelativeDocumentMoniker": "Soap_TP2\\App_Code\\Models\\Transporte.cs",
@@ -373,7 +430,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 2,
+              "DocumentIndex": 6,
               "Title": "IService.cs",
               "DocumentMoniker": "C:\\Users\\RuiMiguelSoaresRodri\\Desktop\\Lesi\\3ano\\ISI\\ISI_TP2\\ISI_TP2\\ISI\\Soap_TP2\\App_Code\\IService.cs",
               "RelativeDocumentMoniker": "Soap_TP2\\App_Code\\IService.cs",
@@ -385,7 +442,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 9,
+              "DocumentIndex": 5,
               "Title": "Service.cs",
               "DocumentMoniker": "C:\\Users\\RuiMiguelSoaresRodri\\Desktop\\Lesi\\3ano\\ISI\\ISI_TP2\\ISI_TP2\\ISI\\Soap_TP2\\App_Code\\Service.cs",
               "RelativeDocumentMoniker": "Soap_TP2\\App_Code\\Service.cs",

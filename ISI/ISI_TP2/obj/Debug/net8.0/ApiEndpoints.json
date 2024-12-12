@@ -1,1 +1,101 @@
-[]
+[
+  {
+    "ContainingType": "ISI_TP2.Controllers.TransportesController",
+    "Method": "GetAllTransportes",
+    "RelativePath": "api/Transportes",
+    "HttpMethod": "GET",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [],
+    "ReturnTypes": []
+  },
+  {
+    "ContainingType": "ISI_TP2.Controllers.TransportesController",
+    "Method": "GetTransportedByID",
+    "RelativePath": "api/Transportes/{id}",
+    "HttpMethod": "GET",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [
+      {
+        "Name": "id",
+        "Type": "System.Int32",
+        "IsRequired": true
+      }
+    ],
+    "ReturnTypes": []
+  },
+  {
+    "ContainingType": "ISI_TP2.Controllers.TransportesController",
+    "Method": "DeleteTransport",
+    "RelativePath": "api/Transportes/{id}",
+    "HttpMethod": "DELETE",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [
+      {
+        "Name": "id",
+        "Type": "System.Int32",
+        "IsRequired": true
+      }
+    ],
+    "ReturnTypes": []
+  },
+  {
+    "ContainingType": "ISI_TP2.Controllers.TransportesController",
+    "Method": "UpdateTransport",
+    "RelativePath": "api/Transportes/{id},{temperaturaAtual}",
+    "HttpMethod": "PUT",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [
+      {
+        "Name": "id",
+        "Type": "System.Int32",
+        "IsRequired": true
+      },
+      {
+        "Name": "temperaturaAtual",
+        "Type": "System.Decimal",
+        "IsRequired": true
+      }
+    ],
+    "ReturnTypes": []
+  },
+  {
+    "ContainingType": "ISI_TP2.Controllers.TransportesController",
+    "Method": "InsertTransport",
+    "RelativePath": "api/Transportes/{tipo},{matricula},{arcondicionado},{temperaturaAtual},{idUtilizador}",
+    "HttpMethod": "POST",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [
+      {
+        "Name": "tipo",
+        "Type": "System.String",
+        "IsRequired": true
+      },
+      {
+        "Name": "matricula",
+        "Type": "System.String",
+        "IsRequired": true
+      },
+      {
+        "Name": "arcondicionado",
+        "Type": "System.Boolean",
+        "IsRequired": true
+      },
+      {
+        "Name": "temperaturaAtual",
+        "Type": "System.Decimal",
+        "IsRequired": true
+      },
+      {
+        "Name": "idUtilizador",
+        "Type": "System.Int32",
+        "IsRequired": true
+      }
+    ],
+    "ReturnTypes": []
+  }
+]

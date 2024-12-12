@@ -17,5 +17,6 @@ namespace Soap.Models
         public decimal TemperaturaAtual { get; set; }
         [DataMember]    
         public int IdUtilizador { get; set; }
+
     }
 }
