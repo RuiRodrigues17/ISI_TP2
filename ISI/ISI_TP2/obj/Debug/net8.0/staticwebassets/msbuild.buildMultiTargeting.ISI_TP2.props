@@ -1,0 +1,3 @@
+﻿<Project>
+  <Import Project="..\build\ISI_TP2.props" />
+</Project>
